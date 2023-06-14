@@ -4,6 +4,8 @@ _Full-stack webdeveloper in Zwolle NL_ <br>
 
 [Email](mailto:mannesmaikel@gmail.com) / [Website](https://portfolio-maikel-eckelboom.vercel.app/) / [LinkedIn](https://www.linkedin.com/in/maikel-eckelboom-328b67181/) / [GitHub](https://github.com/maikeleckelboom/) 
 
+
+
 ## 👩🏼‍💻 Werkervaring
 
 **Frontend Engineer** @ [BRYTER](https://factif.nl/) _(Dec 2018 - 2019)_ <br>
@@ -29,13 +31,14 @@ Early-stage startup focused on automated API testing and NLP.
 
 ## 💬 Taal
 
-  **Nederlands**: Native <br>
-  **English**: 
+  **Nederlands**: Vloeiend
+  **Engels**: Zeer goed
+
 
 ## 👩🏼‍🎓 Onderwijs
 
-- **Software Developer BOL**, Deltion College - Zwolle, _(2019 - 2022)_ <br>
-- **Applicatie & Media ontwikkelaar**, Landstede Media Academy - Zwolle, _(2018 - 2019)_ <br>
-- **Verkoper detailhandel BBL**, ROC Menso Alting, Zwolle, _(2013 - 2015)_ <br>
-- **ICT-medewerker BOL**, Deltion College, Zwolle
-- **Handel & administratie**, Christelijk College de Noordgouw, Hattem _(2008 - 2012)_ <br>
+**Software Developer BOL**, Deltion College - Zwolle, _(2019 - 2022)_ <br>
+**Applicatie & Media ontwikkelaar**, Landstede Media Academy - Zwolle, _(2018 - 2019)_ <br>
+**Verkoper detailhandel BBL**, ROC Menso Alting, Zwolle, _(2013 - 2015)_ <br>
+**ICT-medewerker BOL**, Deltion College, Zwolle _(2012 - 2013)_ <br>
+**Handel & administratie**, Christelijk College de Noordgouw, Hattem _(2008 - 2012)_ <br>
