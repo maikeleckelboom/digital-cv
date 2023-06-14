@@ -50,7 +50,7 @@ Professional chauffeur service available in over 300 cities worldwide.
 
 ## 👩🏼‍🎓 Onderwijs
 
-**Software Developer BOL**, Deltion College - Zwolle, Nederland _(2019 - 2022)_]
+**Software Developer BOL**, Deltion College - Zwolle, Nederland _(2019 - 2022)_ <br>
 **Applicatie & Media ontwikkelaar**, Landstede Media Academy - Zwolle, Nederland _(2018 - 2019)_
 **Verkoper detailhandel BBL**, ROC Menso Alting, Zwolle, Nederland _(2013 - 2015)_
 **Handel & administratie**, Christelijk College de Noordgouw, Hattem Nederland _(2008 - 2012)_
