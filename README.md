@@ -8,25 +8,33 @@ _Full-stack webdeveloper in Zwolle NL_ <br>
 
 ## 👩🏼‍💻 Werkervaring
 
-**Frontend Engineer** @ [BRYTER](https://factif.nl/) _(Dec 2018 - 2019)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Founding member of BRYTER's design system team and continued to provide support and extend the component library
-  - Wrote code in multiple architecture layers, including the application core and integrations with external services
-  - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
+**Junior Front-end Developer** - Internship @ [Factif](https://factif.nl/) _(sep 2018 - feb 2019)_ <br>
+Omnichannel e-commerce internet-agency in Deventer.
+
+  - Ontwikkelen van een front-end template met het nieuwe CSS framework Foundation als basis model voor toekomstige webshops.
+  - Nieuwste technieken toepassen <br>
+**_Technologieën_** Html, Css, Scss, Zurb Foundation, Javascript, Factif Shopmaster).
 <br><br>
 
-**Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
-Early-stage startup focused on automated API testing and NLP.
-  - Built the [website](https://meeshkan.com/) and the initial web app that visualized the test reports
-  - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
-  - Ownership of Meeshkan's documentation and technical blog
-  - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
-  - **_Selected open-source work:_**
-    - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
-    - [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2)
-    - [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
-    <br><br>
+
+
+**Full-stack Software Developer** @ [Gwbo](http://gwbo.nl/) _(ma 2021 - jan 2023)_ <br>
+Advies- en ingenieursbureau ligt in het combineren van engineering, automatisering en procesoptimalisatie.
+
+-  Gewerkt aan een nieuw concept genaamd Yoot Portaal. Dit is een webapplicatie voor het installatieproces beheren van water-warmtepompen. <br>
+   - Cruciale rol in ontwerp, bouw en implementatie van Yoot Portaal.
+   - Samenwerking met ontwikkelaarsteam voor functionele vereisten en gebruikersbehoeften.
+   - Architectuur ontworpen, technologieën en frameworks gekozen en code geschreven.
+   - Integraties met andere systemen, zoals databases, gerealiseerd.
+   - Tests uitgevoerd en fouten opgespoord voor kwaliteit en betrouwbaarheid.
+   - Iteratief gewerkt met feedback van gebruikers en belanghebbenden.
+   - Geleverd: intuïtieve, goed presterende applicatie.
+   - Bijdrage aan Yoot Portaal voor optimalisatie installatieproces water-warmtepompen.
+
+**_Technologies used:_** Vue, Nuxt, Node.js, Php, Html, Scss, Javascript, Laravel, MySql, Apache<br>
+**_Website:_**
+    - [Yoot Portaal](https://portaal.yoot.nl/)
+<br><br>
 
 
 ## 💬 Taal
