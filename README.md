@@ -2,8 +2,19 @@
 
 _Full-stack webdeveloper in Zwolle NL_ <br>
 
-[Email](mailto:mannesmaikel@gmail.com) / [Website](https://portfolio-maikel-eckelboom.vercel.app/) / [LinkedIn](https://www.linkedin.com/in/maikel-eckelboom-328b67181/) / [GitHub](https://github.com/maikeleckelboom/) 
+[Email](mailto:mannesmaikel@gmail.com) / [Website](https://portfolio-maikel-eckelboom.vercel.app/) / [LinkedIn](https://www.linkedin.com/in/maikel-eckelboom-328b67181/) / [GitHub](https://github.com/maikeleckelboom/)
 
+**Naam**: Maikel Eckelboom <br>
+**Geboortedatum**:  22-09-1995 <br>
+**Telefoonnummer**:  +31 6 255 77 452 <br>
+**Email**: mannesmaikel@gmail.com <br>
+**Nationaliteit**:  Nederlandse <br>
+**Burgerlijke staat**:  Ongehuwd <br>
+**Rijbewijs**:  null <br>
+**Woonplaats**:  Wapenveld <br>
+**Beschikbaar**:  Per direct <br>
+
+<br><br>
 
 ## 👩🏼‍💻 Werkervaring
 
