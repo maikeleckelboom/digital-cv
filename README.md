@@ -2,9 +2,9 @@
 
 _Software engineer based in Zwolle NL_ <br>
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) 
+[Email](mailto:mannesmaikel@gmail.com) / [Website](https://portfolio-maikel-eckelboom.vercel.app/) / [LinkedIn](https://www.linkedin.com/in/maikel-eckelboom-328b67181/) / [GitHub](https://github.com/maikeleckelboom/) 
 
-## 👩🏼‍💻 Engineering Experience
+## 👩🏼‍💻 Werkervaring
 
 **Frontend Engineer** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
@@ -43,24 +43,14 @@ Professional chauffeur service available in over 300 cities worldwide.
   <br><br>
 
 
-## 💬 Languages
+## 💬 Taal
 
-NL **Nederlands**: Native <br>
-EN **English**: 
+  **Nederlands**: Native <br>
+  **English**: 
 
-🇩🇪 **German**: B1
-<br><br>
+## 👩🏼‍🎓 Onderwijs
 
-## 👩🏼‍🎓 Education
-
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
-
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
-
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
-
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
+**Software Developer BOL**, Deltion College - Zwolle, Nederland _(2019 - 2022)_]
+**Applicatie & Media ontwikkelaar**, Landstede Media Academy - Zwolle, Nederland _(2018 - 2019)_
+**Verkoper detailhandel BBL**, ROC Menso Alting, Zwolle, Nederland _(2013 - 2015)_
+**Handel & administratie**, Christelijk College de Noordgouw, Hattem Nederland _(2008 - 2012)_
