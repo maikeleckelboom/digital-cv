@@ -19,7 +19,7 @@ Omnichannel e-commerce internet-agency in Deventer.
 Omnichannel e-commerce internet-agency in Deventer.
 - Vertaling van een webdesign naar een werkend geheel in de browser.
 - Ontwikkeling van CMS-templates voor webshops, e-mail-templates en landingspagina’s.
-  <br><br>
+<br><br>
 
 **Software Developer** - Intern @ [Gwbo](http://gwbo.nl/) _(ma 2021 - jan 2023)_ <br>
 Advies- en ingenieursbureau ligt in het combineren van engineering, automatisering en procesoptimalisatie. <br>
