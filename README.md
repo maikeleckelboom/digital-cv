@@ -47,6 +47,7 @@ Advies- en ingenieursbureau ligt in het combineren van engineering, automatiseri
 
 **_Technologies used:_** Vue, Nuxt, Node.js, Php, Html, Scss, Javascript, Laravel, MySql, Apache<br>
 **_Website:_** - [Yoot Portaal](https://portaal.yoot.nl/)
+<br><br>
 
 ## 👩🏼‍🎓 Onderwijs
 **Software Developer BOL** - Deltion College, Zwolle - _(2019 - 2022)_ <br>
