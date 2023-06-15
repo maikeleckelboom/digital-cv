@@ -4,17 +4,11 @@ _Full-stack webdeveloper in Zwolle NL_ <br>
 
 [Email](mailto:mannesmaikel@gmail.com) / [Website](https://portfolio-maikel-eckelboom.vercel.app/) / [LinkedIn](https://www.linkedin.com/in/maikel-eckelboom-328b67181/) / [GitHub](https://github.com/maikeleckelboom/)
 
-**Beschikbaar**:  Per direct <br>
-
 ## 📝 Over mij
 - Enthousiast, leergierig en gedreven
 - Altijd op zoek naar nieuwe uitdagingen, niet bang om nieuwe dingen te leren.
 - Teamplayer, maar kan ook goed zelfstandig werken.
 - Doorzetter, geef niet snel op.
-
-## ✅ Bekwaamheden
-- **Front-end**: Vue, Nuxt, Javascript, Html, Css, Scss, Bootstrap, Tailwind, Foundation, Webpack, Gulp, Git, Github
-- **Back-end**: Node.js, Php, Laravel, MySql
 
 ## 👩🏼‍💻 Werkervaring
 **Front-end Developer Intern** - @ [Factif](https://factif.nl/) _(sep 2018 - feb 2019)_ <br>
@@ -59,11 +53,6 @@ Advies- en ingenieursbureau ligt in het combineren van engineering, automatiseri
 
 **_Technologies used:_** Vue, Nuxt, Node.js, Php, Html, Scss, Javascript, Laravel, MySql, Apache<br>
 **_Website:_** - [Yoot Portaal](https://portaal.yoot.nl/)
-<br><br>
-
-## 💬 Taal
-**Nederlands**: Vloeiend<br>
-**Engels**: Zeer goed<br>
 
 ## 👩🏼‍🎓 Onderwijs
 **Software Developer BOL** - Deltion College, Zwolle - _(2019 - 2022)_ <br>
@@ -71,6 +60,10 @@ Advies- en ingenieursbureau ligt in het combineren van engineering, automatiseri
 **Verkoper detailhandel BBL** - ROC Menso Alting, Zwolle - _(2013 - 2015)_ <br>
 **ICT-medewerker BOL** - Deltion College, Zwolle - _(2012 - 2013)_ <br>
 **Handel & administratie** - Christelijk College de Noordgouw, Hattem - _(2008 - 2012)_ <br>
+
+## ✅ Bekwaamheden
+**Front-end**: Vue, Nuxt, Javascript, Html, Css, Scss, Bootstrap, Tailwind, Foundation, Webpack, Gulp, Git, Github<br>
+**Back-end**: Node.js, Php, Laravel, MySql
 
 ## 📄 Persoonlijke gegevens
 **Naam** Maikel Eckelboom <br>
@@ -80,6 +73,10 @@ Advies- en ingenieursbureau ligt in het combineren van engineering, automatiseri
 **Burgerlijke staat**:  Ongehuwd <br>
 **Woonplaats**:  Wapenveld <br>
 
+## 💬 Taal
+**Nederlands**: Vloeiend<br>
+**Engels**: Zeer goed<br>
+
 ## 📞 Contact
 **Email**: mannesmaikel@gmail.com <br>
 **Telefoon**: +31 6 255 77 452 <br>
@@ -88,3 +85,4 @@ Advies- en ingenieursbureau ligt in het combineren van engineering, automatiseri
 **Beschikbaar**:  Per direct <br>
 **Werklocatie**:  Gelderland, Overijssel <br>
 **Werkuren**:  32 - 40 uur per week <br>
+**Reizen**:  30 km <br>
