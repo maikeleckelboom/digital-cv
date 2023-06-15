@@ -4,12 +4,6 @@ _Full-stack webdeveloper in Zwolle NL_ <br>
 
 [Email](mailto:mannesmaikel@gmail.com) / [Website](https://portfolio-maikel-eckelboom.vercel.app/) / [LinkedIn](https://www.linkedin.com/in/maikel-eckelboom-328b67181/) / [GitHub](https://github.com/maikeleckelboom/)
 
-## 📝 Over mij
-- Enthousiast, leergierig en gedreven
-- Altijd op zoek naar nieuwe uitdagingen, niet bang om nieuwe dingen te leren.
-- Teamplayer, maar kan ook goed zelfstandig werken.
-- Doorzetter, geef niet snel op.
-
 ## 👩🏼‍💻 Werkervaring
 **Front-end Developer Intern** - @ [Factif](https://factif.nl/) _(sep 2018 - feb 2019)_ <br>
 Omnichannel e-commerce internet-agency in Deventer.
@@ -61,6 +55,12 @@ Advies- en ingenieursbureau ligt in het combineren van engineering, automatiseri
 **ICT-medewerker BOL** - Deltion College, Zwolle - _(2012 - 2013)_ <br>
 **Handel & administratie** - Christelijk College de Noordgouw, Hattem - _(2008 - 2012)_ <br>
 
+## 📝 Over mij
+- Enthousiast, leergierig en gedreven
+- Altijd op zoek naar nieuwe uitdagingen, niet bang om nieuwe dingen te leren.
+- Teamplayer, maar kan ook goed zelfstandig werken.
+- Doorzetter, geef niet snel op.
+
 ## ✅ Bekwaamheden
 **Front-end**: Vue, Nuxt, Javascript, Html, Css, Scss, Bootstrap, Tailwind, Foundation, Webpack, Gulp, Git, Github<br>
 **Back-end**: Node.js, Php, Laravel, MySql
@@ -82,7 +82,8 @@ Advies- en ingenieursbureau ligt in het combineren van engineering, automatiseri
 **Telefoon**: +31 6 255 77 452 <br>
 **Website**: https://portfolio-maikel-eckelboom.vercel.app/
 
+## 📅 Beschikbaarheid:
 **Beschikbaar**:  Per direct <br>
+**Uren per week**:  32 - 40 <br>
 **Werklocatie**:  Gelderland, Overijssel <br>
-**Werkuren**:  32 - 40 uur per week <br>
 **Reizen**:  30 km <br>
